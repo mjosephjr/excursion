@@ -1,0 +1,48 @@
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+}
+
+h3 {
+  color: gray;
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 21px;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  text-align: center;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.video {
+  text-align: center;
+  margin: 0 auto;
+  width: 400px
+}
+
+.image {
+  text-align: center;
+}
