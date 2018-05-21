@@ -47,3 +47,9 @@ video {
 .image {
   text-align: center;
 }
+
+.footer {
+  text-align: right;
+  font-family: verdana;
+  color: gray;
+}
